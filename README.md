@@ -67,3 +67,10 @@ My role in Group 6 is UI/UX Designer and Documentation Lead. I am responsible fo
 - Maintain and organize project documentation.
 - Contribute ideas for product features.
 - Work with the developers to make sure the design can be implemented.
+
+### Demetric Noble — Individual Meeting Minutes
+
+
+We divided responsibilities among team members. Javian Mack will serve as Technical Lead and Developer, Justin Williams as Project Manager, and I will serve as UI/UX Designer and Documentation Lead.
+
+My assigned responsibilities include planning the application’s layout, considering how students will navigate its features, and organizing project documentation. My next steps are to prepare an initial layout proposal and review it with the group before development.
